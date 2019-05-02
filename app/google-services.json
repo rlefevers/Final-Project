@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "655111895152",
+    "firebase_url": "https://finalprojectcocktail.firebaseio.com",
+    "project_id": "finalprojectcocktail",
+    "storage_bucket": "finalprojectcocktail.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655111895152:android:bfa4eb3a53c96bf8",
+        "android_client_info": {
+          "package_name": "edu.iupui.elliott.cocktailappsupport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655111895152-b15g0r20foth3oq87lt1sg4es8ronsam.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.iupui.elliott.cocktailappsupport",
+            "certificate_hash": "a276d4600f8b4b4493b585ada9053d3b1e18282b"
+          }
+        },
+        {
+          "client_id": "655111895152-gek9lnsb2mu5qlb283bvrlida7op50tn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuQuwqg6UB3SgzusWyxAaUiAuc_68NUzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655111895152-gek9lnsb2mu5qlb283bvrlida7op50tn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
